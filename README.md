@@ -1,2 +1,2 @@
 # hellp-world
-my first repositary
+my first repository
